@@ -17,6 +17,10 @@
 ```
   docker-compose up -d
 ```
+5. Seed data base
+  ```
+  http://localhost:3000/api/v1/seed
+  ```
 
 
 ## Stack
